@@ -4,7 +4,7 @@ In looking for the next step in my career, there are many titles used; Tableau P
 
 ## Getting Started
 
-This model can be fed any data in list format. Select your .csv file to import, and simply run the cells.
+This model can be fed any data in .csv format. Select your .csv file to import, and simply each cell.
 
 ### Prerequisites
 

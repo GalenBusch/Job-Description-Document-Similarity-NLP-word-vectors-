@@ -8,17 +8,17 @@ This model can be fed any data in .csv format. Select your .csv file to import, 
 
 ### Prerequisites
 
-sklearn
-SciPy
-pandas
-gensim
-matplotlib
-numpy
-codecs
-logging
-csv
-gzip
-Cython
+sklearn,
+SciPy,
+pandas,
+gensim,
+matplotlib,
+numpy,
+codecs,
+logging,
+csv,
+gzip,
+Cython,
 numba (optional)
 
 ## Built With

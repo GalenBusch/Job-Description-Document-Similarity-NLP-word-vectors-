@@ -29,6 +29,8 @@ Conda
 
 Jupyter Notebook
 
+Tableau (Visualizing result set)
+
 ## Contributing
 
 Chris Jackson

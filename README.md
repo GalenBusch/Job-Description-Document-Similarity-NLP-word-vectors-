@@ -24,12 +24,15 @@ numba (optional)
 ## Built With
 
 Python
+
 Conda
+
 Jupyter Notebook
 
 ## Contributing
 
 Chris Jackson
+
 Jase Grills
 
 ## Author
